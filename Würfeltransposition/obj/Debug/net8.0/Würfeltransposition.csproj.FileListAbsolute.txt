@@ -1,0 +1,14 @@
+Z:\BUNW\Würfeltransposition\Würfeltransposition\bin\Debug\net8.0\Würfeltransposition.exe
+Z:\BUNW\Würfeltransposition\Würfeltransposition\bin\Debug\net8.0\Würfeltransposition.deps.json
+Z:\BUNW\Würfeltransposition\Würfeltransposition\bin\Debug\net8.0\Würfeltransposition.runtimeconfig.json
+Z:\BUNW\Würfeltransposition\Würfeltransposition\bin\Debug\net8.0\Würfeltransposition.dll
+Z:\BUNW\Würfeltransposition\Würfeltransposition\bin\Debug\net8.0\Würfeltransposition.pdb
+Z:\BUNW\Würfeltransposition\Würfeltransposition\obj\Debug\net8.0\Würfeltransposition.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BUNW\Würfeltransposition\Würfeltransposition\obj\Debug\net8.0\Würfeltransposition.AssemblyInfoInputs.cache
+Z:\BUNW\Würfeltransposition\Würfeltransposition\obj\Debug\net8.0\Würfeltransposition.AssemblyInfo.cs
+Z:\BUNW\Würfeltransposition\Würfeltransposition\obj\Debug\net8.0\Würfeltransposition.csproj.CoreCompileInputs.cache
+Z:\BUNW\Würfeltransposition\Würfeltransposition\obj\Debug\net8.0\Würfeltransposition.dll
+Z:\BUNW\Würfeltransposition\Würfeltransposition\obj\Debug\net8.0\refint\Würfeltransposition.dll
+Z:\BUNW\Würfeltransposition\Würfeltransposition\obj\Debug\net8.0\Würfeltransposition.pdb
+Z:\BUNW\Würfeltransposition\Würfeltransposition\obj\Debug\net8.0\Würfeltransposition.genruntimeconfig.cache
+Z:\BUNW\Würfeltransposition\Würfeltransposition\obj\Debug\net8.0\ref\Würfeltransposition.dll
